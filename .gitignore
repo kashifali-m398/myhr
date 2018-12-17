@@ -1,0 +1,5 @@
+# adding default apps into gitignore
+erpnext/*
+foundation/*
+frappe/*
+frappe_io/*
